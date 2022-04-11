@@ -1,0 +1,19 @@
+{
+  "name": "edabit",
+  "version": "1.0.0",
+  "description": "This contains solutions to the code challenges I have worked on in Edabit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "edabit",
+    "solutions"
+  ],
+  "author": "Wendy",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
